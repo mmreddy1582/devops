@@ -1,1 +1,1 @@
-testA --testing1
+testA --testing1 -github
